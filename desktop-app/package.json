@@ -88,7 +88,7 @@
     "electron-debug": "^3.2.0",
     "electron-log": "^4.4.8",
     "electron-store": "^8.0.2",
-    "electron-updater": "^6.1.8",
+    "electron-updater": "^6.3.9",
     "emitter": "^0.0.5",
     "javascript-time-ago": "^2.5.10",
     "mousetrap": "^1.6.5",
