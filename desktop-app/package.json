@@ -81,7 +81,7 @@
     "@scena/react-guides": "^0.28.2",
     "autoprefixer": "^10.4.16",
     "bluebird": "^3.7.2",
-    "browser-sync": "^2.29.3",
+    "browser-sync": "^3.0.4",
     "classnames": "^2.3.1",
     "custom-electron-titlebar": "^4.2.7",
     "electron-args": "^0.1.0",
